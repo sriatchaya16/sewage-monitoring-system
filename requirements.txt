@@ -1,0 +1,5 @@
+# This project uses only Python standard libraries.
+
+# No external Python packages are required.
+
+# Python 3.10 or newer recommended
